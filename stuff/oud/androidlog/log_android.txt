@@ -1,0 +1,262 @@
+2018-01-11 20:18:29 android start sendMessage 
+2018-01-11 20:18:29 android exit sendMessage 
+2018-01-11 20:18:29 android start sendMessage 
+2018-01-11 20:18:29 android exit sendMessage 
+2018-01-11 20:18:36 android start onCreate 
+2018-01-11 20:18:36 android exit onCreate 
+2018-01-11 20:18:36 androidcheck start check
+2018-01-11 20:18:42 android start sendMessage hoi
+2018-01-11 20:18:42 android exit sendMessage hoi
+2018-01-11 20:18:42 androidcheck stopt check
+2018-01-11 20:18:42 androidcheck stopt check
+2018-01-11 20:18:42 androidcheck stopt check
+2018-01-11 20:18:42 androidcheck stopt check
+2018-01-11 20:18:43 androidcheck start check
+2018-01-11 20:18:44 android start sendMessage hi
+2018-01-11 20:18:44 android exit sendMessage hi
+2018-01-11 20:18:45 androidcheck stopt check
+2018-01-11 20:18:45 androidcheck start check
+2018-01-11 20:18:54 android start sendMessage hoi
+doei
+2018-01-11 20:18:54 android exit sendMessage hoi
+doei
+2018-01-11 20:18:55 androidcheck stopt check
+2018-01-11 20:18:55 androidcheck start check
+2018-01-11 20:19:31 android start sendMessage hoi
+
+do
+2018-01-11 20:19:31 android exit sendMessage hoi
+
+do
+2018-01-11 20:19:31 androidcheck stopt check
+2018-01-11 20:19:31 androidcheck start check
+2018-01-11 20:19:37 android start sendMessage h
+k
+2018-01-11 20:19:37 android exit sendMessage h
+k
+2018-01-11 20:19:37 androidcheck stopt check
+2018-01-11 20:19:38 androidcheck start check
+2018-01-11 20:19:40 android start sendMessage h
+2018-01-11 20:19:40 android exit sendMessage h
+2018-01-11 20:19:41 androidcheck stopt check
+2018-01-11 20:19:41 androidcheck start check
+2018-01-11 20:22:30 android start sendMessage we hoi
+2018-01-11 20:22:30 android exit sendMessage we hoi
+2018-01-11 20:22:31 androidcheck stopt check
+2018-01-11 20:22:38 android start onCreate 
+2018-01-11 20:22:38 android exit onCreate 
+2018-01-11 20:22:38 androidcheck start check
+2018-01-11 20:22:41 android start sendMessage hoi
+2018-01-11 20:22:41 android exit sendMessage hoi
+2018-01-11 20:22:41 androidcheck stopt check
+2018-01-11 20:22:42 androidcheck start check
+2018-01-11 20:22:47 android start sendMessage hoi
+doei
+2018-01-11 20:22:47 android exit sendMessage hoi
+doei
+2018-01-11 20:22:48 androidcheck stopt check
+2018-01-11 20:22:48 androidcheck start check
+2018-01-11 20:22:53 android start sendMessage h
+
+k
+2018-01-11 20:22:53 android exit sendMessage h
+
+k
+2018-01-11 20:22:53 androidcheck stopt check
+2018-01-11 20:22:53 androidcheck start check
+2018-01-11 20:23:08 android start sendMessage 
+
+h
+2018-01-11 20:23:08 android exit sendMessage 
+
+h
+2018-01-11 20:23:08 androidcheck stopt check
+2018-01-11 20:23:08 androidcheck start check
+2018-01-11 20:24:18 android start sendMessage we
+
+ho
+2018-01-11 20:24:18 android exit sendMessage we
+
+ho
+2018-01-11 20:24:19 androidcheck stopt check
+2018-01-11 20:24:20 androidcheck start check
+2018-01-11 20:24:32 android start sendMessage h
+2018-01-11 20:24:32 android exit sendMessage h
+2018-01-11 20:24:33 androidcheck stopt check
+2018-01-11 20:24:33 androidcheck start check
+2018-01-11 20:26:30 android start sendMessage hoi
+2018-01-11 20:26:30 android exit sendMessage hoi
+2018-01-11 20:26:31 androidcheck stopt check
+2018-01-11 20:26:31 androidcheck start check
+2018-01-11 20:26:36 android start sendMessage hoi
+doei
+2018-01-11 20:26:36 android exit sendMessage hoi
+doei
+2018-01-11 20:26:36 androidcheck stopt check
+2018-01-11 20:26:36 androidcheck start check
+2018-01-11 20:26:42 android start sendMessage h
+
+
+k
+2018-01-11 20:26:42 android exit sendMessage h
+
+
+k
+2018-01-11 20:26:42 androidcheck stopt check
+2018-01-11 20:26:42 androidcheck start check
+2018-01-11 20:26:46 android start sendMessage h
+
+k
+2018-01-11 20:26:46 android exit sendMessage h
+
+k
+2018-01-11 20:26:46 androidcheck stopt check
+2018-01-11 20:26:47 androidcheck start check
+2018-01-11 20:28:57 android start sendMessage h
+2018-01-11 20:28:57 android exit sendMessage h
+2018-01-11 20:28:58 androidcheck stopt check
+2018-01-11 20:29:02 androidcheck start check
+2018-01-11 20:29:02 android start onCreate 
+2018-01-11 20:29:02 android exit onCreate 
+2018-01-11 20:29:09 android start sendMessage hoi
+
+doei
+2018-01-11 20:29:09 android exit sendMessage hoi
+
+doei
+2018-01-11 20:29:09 androidcheck stopt check
+2018-01-11 20:29:09 androidcheck start check
+2018-01-11 20:29:26 android start sendMessage h
+
+k
+2018-01-11 20:29:26 android exit sendMessage h
+
+k
+2018-01-11 20:29:26 androidcheck stopt check
+2018-01-11 20:29:27 androidcheck start check
+2018-01-11 20:29:29 android start sendMessage h
+2018-01-11 20:29:29 android exit sendMessage h
+2018-01-11 20:29:30 androidcheck stopt check
+2018-01-11 20:29:30 androidcheck start check
+2018-01-11 20:29:35 android start sendMessage h
+k
+2018-01-11 20:29:35 android exit sendMessage h
+k
+2018-01-11 20:29:35 androidcheck stopt check
+2018-01-11 20:29:35 androidcheck start check
+2018-01-11 20:31:37 android start sendMessage 
+2018-01-11 20:31:37 android exit sendMessage 
+2018-01-11 20:31:41 androidcheck start check
+2018-01-11 20:31:41 android start onCreate 
+2018-01-11 20:31:41 android exit onCreate 
+2018-01-11 20:31:47 android start sendMessage ho
+
+k
+2018-01-11 20:31:47 android exit sendMessage ho
+
+k
+2018-01-11 20:31:47 androidcheck stopt check
+2018-01-11 20:31:47 androidcheck stopt check
+2018-01-11 20:31:47 androidcheck start check
+2018-01-11 20:31:50 android start sendMessage k
+2018-01-11 20:31:50 android exit sendMessage k
+2018-01-11 20:31:50 androidcheck stopt check
+2018-01-11 20:31:51 androidcheck start check
+2018-01-11 20:34:00 android start onCreate 
+2018-01-11 20:34:00 android exit onCreate 
+2018-01-11 20:34:00 androidcheck start check
+2018-01-11 20:34:04 android start sendMessage hoi
+2018-01-11 20:34:04 android exit sendMessage hoi
+2018-01-11 20:34:04 androidcheck stopt check
+2018-01-11 20:34:05 androidcheck start check
+2018-01-11 20:34:05 androidcheck stopt check
+2018-01-11 20:34:12 android start sendMessage g
+
+h
+2018-01-11 20:34:12 android exit sendMessage g
+
+h
+2018-01-11 20:34:12 androidcheck stopt check
+2018-01-11 20:34:12 androidcheck start check
+2018-01-11 20:34:54 android start sendMessage hoi
+2018-01-11 20:34:54 android exit sendMessage hoi
+2018-01-11 20:34:54 androidcheck stopt check
+2018-01-11 20:34:54 androidcheck start check
+2018-01-11 20:35:00 android start sendMessage hk
+2018-01-11 20:35:00 android exit sendMessage hk
+2018-01-11 20:35:00 androidcheck stopt check
+2018-01-11 20:35:00 androidcheck start check
+2018-01-11 20:35:30 android start sendMessage reset_the_full_chat
+2018-01-11 20:35:30 android exit sendMessage reset_the_full_chat
+2018-01-11 20:35:31 androidcheck stopt check
+2018-01-11 20:35:32 androidcheck start check
+2018-01-11 20:35:34 android start sendMessage hoi
+2018-01-11 20:35:34 android exit sendMessage hoi
+2018-01-11 20:35:35 androidcheck stopt check
+2018-01-11 20:35:35 androidcheck start check
+2018-01-11 20:35:39 android start sendMessage doei
+2018-01-11 20:35:39 android exit sendMessage doei
+2018-01-11 20:35:40 androidcheck stopt check
+2018-01-11 20:35:40 androidcheck start check
+2018-01-11 20:36:14 android start sendMessage reset_the_full_chat
+2018-01-11 20:36:14 android exit sendMessage reset_the_full_chat
+2018-01-11 20:36:15 androidcheck stopt check
+2018-01-11 20:36:15 androidcheck start check
+2018-01-11 20:36:17 android start sendMessage hoi
+2018-01-11 20:36:17 android exit sendMessage hoi
+2018-01-11 20:36:18 androidcheck stopt check
+2018-01-11 20:36:18 androidcheck start check
+2018-01-11 20:36:22 android start sendMessage doei
+2018-01-11 20:36:22 android exit sendMessage doei
+2018-01-11 20:36:22 androidcheck stopt check
+2018-01-11 20:36:23 androidcheck start check
+2018-01-11 20:56:27 android start onCreate 
+2018-01-11 20:56:27 android exit onCreate 
+2018-01-11 20:56:27 androidcheck start check
+2018-01-11 20:56:39 android start sendMessage 😎
+2018-01-11 20:56:39 android exit sendMessage 😎
+2018-01-11 20:56:39 androidcheck stopt check
+2018-01-11 20:56:39 androidcheck stopt check
+2018-01-11 20:56:39 androidcheck start check
+2018-01-13 13:17:48 android start onCreate 
+2018-01-13 13:17:48 android exit onCreate 
+2018-01-13 13:17:48 androidcheck start check
+2018-01-13 21:36:43 android start onCreate 
+2018-01-13 21:36:43 android exit onCreate 
+2018-01-13 21:36:43 androidcheck start check
+2018-01-13 21:37:04 android start sendMessage met spaties.
+en enter.
+
+nog 1.
+2018-01-13 21:37:04 android exit sendMessage met spaties.
+en enter.
+
+nog 1.
+2018-01-13 21:37:04 androidcheck stopt check
+2018-01-13 21:37:05 androidcheck stopt check
+2018-01-13 21:37:05 androidcheck start check
+2018-01-13 21:37:44 android start sendMessage werkt.als een 🔆
+2018-01-13 21:37:44 android exit sendMessage werkt.als een 🔆
+2018-01-13 21:37:45 androidcheck stopt check
+2018-01-13 21:37:45 androidcheck start check
+2018-01-13 21:37:49 android start onCreate 
+2018-01-13 21:37:49 android exit onCreate 
+2018-01-13 21:37:49 androidcheck start check
+2018-01-13 21:37:49 androidcheck start check
+2018-01-13 21:37:49 android start onCreate 
+2018-01-13 21:37:49 android exit onCreate 
+2018-09-30 20:47:45 android start  
+2018-09-30 20:47:45 android exit  
+2018-09-30 20:48:56 androidcheck start 
+2018-09-30 20:55:10 androidcheck start 
+2018-09-30 21:01:42 androidcheck start 
+2018-10-06 19:23:28 android start  
+2018-10-06 19:23:28 android exit  
+2018-10-06 19:23:34 androidcheck start 
+2018-10-06 19:29:56 androidcheck start 
+2018-10-06 19:36:31 androidcheck start 
+2020-01-25 19:38:15 android start  
+2020-01-25 19:38:15 android exit  
+2020-07-30 14:38:57 androidcheck start 
+2020-08-11 09:41:58 android start  
+2020-08-11 09:41:58 android exit  
